@@ -24,7 +24,7 @@ export const Footer =() =>{
                     <FaMailBulk size="2em" color="white" />
                   </a>
                 </div>
-                <div className="rights">©All Rights are Preserved</div>
+                <div className="rights"><p>©All Rights are Preserved</p></div>
                 <div className="social">
                   <a href="https://mail.google.com/" className="item">
                     <FaGoogle size="2em" color="white" />
